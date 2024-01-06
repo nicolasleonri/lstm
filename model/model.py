@@ -2,6 +2,9 @@ import torch
 import torch.nn as nn
 
 
+#decoder = LSTM(n_characters, hidden_size, n_characters, n_layers)
+
+
 # Here is a pseudocode to help with your LSTM implementation. 
 # You can add new methods and/or change the signature (i.e., the input parameters) of the methods.
 class LSTM(nn.Module):
@@ -15,6 +18,16 @@ class LSTM(nn.Module):
         of a specified size."""
         ############################ STUDENT SOLUTION ############################
         # YOUR CODE HERE
+
+        # initialise hidden and cell state at t=0 with zero vectors and with the correct shapes
+
+        '''
+        1. one layer that maps the input character into its embedding, 
+        2. one LSTM layer (which may itself have multiple layers) that operates on that embedding 
+        and a hidden and cell state, 
+        3. and a decoder layer that outputs the probability distribution.
+        '''
+
         ##########################################################################
         pass
 
