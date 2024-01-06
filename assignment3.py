@@ -73,12 +73,13 @@ def main():
                 loss_avg = 0
 
     if args.custom_train:
-        # YOUR CODE HERE
-        #     TODO:
-        #         1) Fill in `hyperparam_list` with dictionary of hyperparameters
-        #         that you want to try.
         ####################### STUDENT SOLUTION ###############################
-        hyperparam_list = []
+        hyperparam_list = [
+            {'n_epochs': 100, 'hidden_size': 32,
+                'n_layers': 1, 'lr': 0.1, 'temperature': 1},
+            {'hidden_size': 64, 'n_layers': 1, 'lr': 0.01, 'temperature': 0.5},
+            {'hidden_size': 256, 'n_layers': 3, 'lr': 0.002, 'temperature': 0.9},
+        ]
         ########################################################################
         bpc = custom_train(hyperparam_list)
 
@@ -86,18 +87,12 @@ def main():
             print("BPC {}: {}".format(keys, values))
 
     if args.plot_loss:
-        # YOUR CODE HERE
-        #     TODO:
-        #         1) Fill in `lr_list` with learning rates that you want to try.
         ######################### STUDENT SOLUTION #############################
         lr_list = [0.5, 0.1, 0.05, 0.01, 0.001, 0.0005, 0.0001]
         ########################################################################
         plot_loss(lr_list)
 
     if args.diff_temp:
-        # YOUR CODE HERE
-        #     TODO:
-        #         1) Fill in `temp_list` with temperatures that you want to try.
         ########################### STUDENT SOLUTION ###########################
         temp_list = [0.8, 1.2, 1.6, 2.0, 2.4, 2.8]
         ########################################################################

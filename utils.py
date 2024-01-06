@@ -101,5 +101,5 @@ def plot_experiment_results(experiment_results, max_experiments_per_plot=10):
         plt.plot(range(1, len(results) + 1), results, label=experiment_name)
 
     # Add legend and show the final plot
-    plt.legend()
+    plt.legend(loc='upper left')
     plt.show()

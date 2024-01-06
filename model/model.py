@@ -27,9 +27,8 @@ class LSTM(nn.Module):
             self.num_embeddings, self.embedding_size)
         self.layer_lstm = nn.LSTM(
             self.embedding_size, self.hidden_size, self.n_layers)
-        # Project to output size
         self.fc = nn.Linear(in_features=self.hidden_size,
-                            out_features=self.embedding_size)
+                            out_features=self.embedding_size)  # Project to output size
         ##########################################################################
 
     def forward(self, input, hidden=None, cell=None):
@@ -46,17 +45,19 @@ class LSTM(nn.Module):
             tuple: Tuple containing the updated hidden and cell states.
         """
 
-        if hidden is None and cell is None:
-            # Initialize hidden state and cell state if not provided
-            hidden, cell = self.init_hidden()
-
         # Embedding layer
         embedded = self.layer_embedding(input)
 
         # LSTM layer
-        # should be: output, (hidden, cell) = self.lstm(embedded.view(1, 1, -1), (hidden, cell))
-        output, (hidden, cell) = self.layer_lstm(
-            embedded.view(1, 1, -1), hidden)
+        if hidden is None and cell is None:
+            output, (hidden, cell) = self.layer_lstm(
+                embedded.view(1, 1, -1), self.init_hidden())
+        elif cell is None:
+            output, (hidden, cell) = self.layer_lstm(
+                embedded.view(1, 1, -1), hidden)
+        else:
+            output, (hidden, cell) = self.layer_lstm(
+                embedded.view(1, 1, -1), (hidden, cell))
 
         # Decoder layer
         decoded_output = self.fc(output.view(1, -1))
