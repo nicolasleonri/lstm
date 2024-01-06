@@ -60,6 +60,7 @@ def main():
         loss_avg = 0
 
         for epoch in range(1, n_epochs+1):
+            print(epoch)
             loss = train(decoder, decoder_optimizer, *random_training_set())
             loss_avg += loss
 
