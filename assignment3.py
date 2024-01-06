@@ -60,12 +60,12 @@ def main():
         loss_avg = 0
 
         for epoch in range(1, n_epochs+1):
-            print(epoch)
             loss = train(decoder, decoder_optimizer, *random_training_set())
             loss_avg += loss
 
             if epoch % print_every == 0:
-                print('[{} ({} {}%) {:.4f}]'.format(time_since(start), epoch, epoch/n_epochs * 100, loss))
+                print('[{} ({} {}%) {:.4f}]'.format(time_since(
+                    start), epoch, epoch/n_epochs * 100, loss))
                 print(generate(decoder, 'A', 100), '\n')
 
             if epoch % plot_every == 0:
@@ -90,7 +90,7 @@ def main():
         #     TODO:
         #         1) Fill in `lr_list` with learning rates that you want to try.
         ######################### STUDENT SOLUTION #############################
-        lr_list = []
+        lr_list = [0.5, 0.1, 0.05, 0.01, 0.001, 0.0005, 0.0001]
         ########################################################################
         plot_loss(lr_list)
 
@@ -99,7 +99,7 @@ def main():
         #     TODO:
         #         1) Fill in `temp_list` with temperatures that you want to try.
         ########################### STUDENT SOLUTION ###########################
-        temp_list = []
+        temp_list = [0.8, 1.2, 1.6, 2.0, 2.4, 2.8]
         ########################################################################
         diff_temp(temp_list)
 
