@@ -75,7 +75,7 @@ def main():
     if args.custom_train:
         ####################### STUDENT SOLUTION ###############################
         hyperparam_list = [
-            {'n_epochs': 100, 'hidden_size': 32,
+            {'n_epochs': 1500, 'hidden_size': 32,
                 'n_layers': 1, 'lr': 0.1, 'temperature': 1},
             {'hidden_size': 64, 'n_layers': 1, 'lr': 0.01, 'temperature': 0.5},
             {'hidden_size': 256, 'n_layers': 3, 'lr': 0.002, 'temperature': 0.9},
