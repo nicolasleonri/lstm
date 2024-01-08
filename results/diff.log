@@ -1,0 +1,1077 @@
+
+Iteration 1: Trying temperature 0.8
+Epoch 100/3000 | Loss: 2.5990
+Epoch 200/3000 | Loss: 2.3097
+Epoch 300/3000 | Loss: 2.1313
+Epoch 400/3000 | Loss: 2.0770
+Epoch 500/3000 | Loss: 1.9173
+Epoch 600/3000 | Loss: 2.0950
+Epoch 700/3000 | Loss: 2.0372
+Epoch 800/3000 | Loss: 1.9605
+Epoch 900/3000 | Loss: 1.7507
+Epoch 1000/3000 | Loss: 2.1470
+Epoch 1100/3000 | Loss: 1.8244
+Epoch 1200/3000 | Loss: 1.9263
+Epoch 1300/3000 | Loss: 1.8485
+Epoch 1400/3000 | Loss: 1.6917
+Epoch 1500/3000 | Loss: 1.6183
+Epoch 1600/3000 | Loss: 1.5232
+Epoch 1700/3000 | Loss: 1.8738
+Epoch 1800/3000 | Loss: 1.9289
+Epoch 1900/3000 | Loss: 1.9602
+Epoch 2000/3000 | Loss: 1.7612
+Epoch 2100/3000 | Loss: 1.5334
+Epoch 2200/3000 | Loss: 1.9402
+Epoch 2300/3000 | Loss: 1.8933
+Epoch 2400/3000 | Loss: 1.8549
+Epoch 2500/3000 | Loss: 1.7808
+Epoch 2600/3000 | Loss: 1.5948
+Epoch 2700/3000 | Loss: 1.7097
+Epoch 2800/3000 | Loss: 1.7231
+Epoch 2900/3000 | Loss: 1.8104
+Epoch 3000/3000 | Loss: 1.5742
+
+
+For temperature 0.8 and Priming string 'it not dif', we got this last answer:
+it not differy.  I shoulder the had 
+to suppose it had cuthement.
+
+'Yes.  When he
+father, with a getter, and w
+
+
+
+Iteration 2: Trying temperature 1.2
+Epoch 100/3000 | Loss: 2.4369
+Epoch 200/3000 | Loss: 2.4169
+Epoch 300/3000 | Loss: 2.0876
+Epoch 400/3000 | Loss: 1.9511
+Epoch 500/3000 | Loss: 1.8445
+Epoch 600/3000 | Loss: 1.9219
+Epoch 700/3000 | Loss: 1.9697
+Epoch 800/3000 | Loss: 1.9373
+Epoch 900/3000 | Loss: 1.8659
+Epoch 1000/3000 | Loss: 1.7351
+Epoch 1100/3000 | Loss: 1.8898
+Epoch 1200/3000 | Loss: 1.9291
+Epoch 1300/3000 | Loss: 1.7641
+Epoch 1400/3000 | Loss: 1.6931
+Epoch 1500/3000 | Loss: 1.7202
+Epoch 1600/3000 | Loss: 1.8367
+Epoch 1700/3000 | Loss: 1.5678
+Epoch 1800/3000 | Loss: 1.8163
+Epoch 1900/3000 | Loss: 1.5915
+Epoch 2000/3000 | Loss: 1.6009
+Epoch 2100/3000 | Loss: 1.7595
+Epoch 2200/3000 | Loss: 1.9116
+Epoch 2300/3000 | Loss: 1.5771
+Epoch 2400/3000 | Loss: 1.9267
+Epoch 2500/3000 | Loss: 1.5549
+Epoch 2600/3000 | Loss: 1.5227
+Epoch 2700/3000 | Loss: 1.6748
+Epoch 2800/3000 | Loss: 1.5742
+Epoch 2900/3000 | Loss: 1.6869
+Epoch 3000/3000 | Loss: 1.7866
+
+
+For temperature 1.2 and Priming string ', unless
+y', we got this last answer:
+, unless
+you suchme, but I house acticaturgy the kejide, lettil - He tulse the looking in the
+assoinged, I auv
+
+
+
+Iteration 3: Trying temperature 1.6
+Epoch 100/3000 | Loss: 2.3865
+Epoch 200/3000 | Loss: 2.3222
+Epoch 300/3000 | Loss: 2.2617
+Epoch 400/3000 | Loss: 2.1638
+Epoch 500/3000 | Loss: 2.0437
+Epoch 600/3000 | Loss: 2.2625
+Epoch 700/3000 | Loss: 2.0203
+Epoch 800/3000 | Loss: 1.8914
+Epoch 900/3000 | Loss: 1.9293
+Epoch 1000/3000 | Loss: 2.0537
+Epoch 1100/3000 | Loss: 1.3811
+Epoch 1200/3000 | Loss: 1.6177
+Epoch 1300/3000 | Loss: 1.7876
+Epoch 1400/3000 | Loss: 1.5745
+Epoch 1500/3000 | Loss: 1.6647
+Epoch 1600/3000 | Loss: 1.7683
+Epoch 1700/3000 | Loss: 1.7296
+Epoch 1800/3000 | Loss: 1.7583
+Epoch 1900/3000 | Loss: 1.8598
+Epoch 2000/3000 | Loss: 1.6927
+Epoch 2100/3000 | Loss: 1.7813
+Epoch 2200/3000 | Loss: 1.6083
+Epoch 2300/3000 | Loss: 1.6326
+Epoch 2400/3000 | Loss: 1.5446
+Epoch 2500/3000 | Loss: 1.9173
+Epoch 2600/3000 | Loss: 1.6957
+Epoch 2700/3000 | Loss: 1.5054
+Epoch 2800/3000 | Loss: 1.6620
+Epoch 2900/3000 | Loss: 1.5961
+Epoch 3000/3000 | Loss: 1.5362
+
+
+For temperature 1.6 and Priming string 'ral conclu', we got this last answer:
+ral conclust ffird.'
+
+Did (Lorth; -oke ofcton thout
+ways-gue-tap-guart?'
+
+Swenthyible; ander puuse
+with the so
+
+
+
+Iteration 4: Trying temperature 2.0
+Epoch 100/3000 | Loss: 2.3951
+Epoch 200/3000 | Loss: 2.3216
+Epoch 300/3000 | Loss: 2.0162
+Epoch 400/3000 | Loss: 2.2043
+Epoch 500/3000 | Loss: 2.2198
+Epoch 600/3000 | Loss: 2.0438
+Epoch 700/3000 | Loss: 1.7528
+Epoch 800/3000 | Loss: 2.0492
+Epoch 900/3000 | Loss: 1.5791
+Epoch 1000/3000 | Loss: 1.9143
+Epoch 1100/3000 | Loss: 1.7830
+Epoch 1200/3000 | Loss: 1.7488
+Epoch 1300/3000 | Loss: 1.8425
+Epoch 1400/3000 | Loss: 1.7095
+Epoch 1500/3000 | Loss: 1.7686
+Epoch 1600/3000 | Loss: 1.8775
+Epoch 1700/3000 | Loss: 1.6423
+Epoch 1800/3000 | Loss: 1.7845
+Epoch 1900/3000 | Loss: 1.8264
+Epoch 2000/3000 | Loss: 1.8790
+Epoch 2100/3000 | Loss: 1.7455
+Epoch 2200/3000 | Loss: 1.6192
+Epoch 2300/3000 | Loss: 1.8709
+Epoch 2400/3000 | Loss: 1.7652
+Epoch 2500/3000 | Loss: 1.6264
+Epoch 2600/3000 | Loss: 1.6084
+Epoch 2700/3000 | Loss: 1.6127
+Epoch 2800/3000 | Loss: 1.7454
+Epoch 2900/3000 | Loss: 1.4545
+Epoch 3000/3000 | Loss: 1.6216
+
+
+For temperature 2.0 and Priming string 'ng on in
+o', we got this last answer:
+ng on in
+obqe (youll hourys; Mrs:Tth?L O9" REFival wid feiter 
+pokecip!
+NIFINKCoveaki's
+brosqose!
+Ave,-LXhe qa
+
+
+
+Iteration 5: Trying temperature 2.4
+Epoch 100/3000 | Loss: 2.4591
+Epoch 200/3000 | Loss: 2.2396
+Epoch 300/3000 | Loss: 2.2047
+Epoch 400/3000 | Loss: 1.8557
+Epoch 500/3000 | Loss: 1.9240
+Epoch 600/3000 | Loss: 1.9447
+Epoch 700/3000 | Loss: 1.8711
+Epoch 800/3000 | Loss: 2.0209
+Epoch 900/3000 | Loss: 1.6421
+Epoch 1000/3000 | Loss: 1.8940
+Epoch 1100/3000 | Loss: 1.7229
+Epoch 1200/3000 | Loss: 1.6144
+Epoch 1300/3000 | Loss: 1.6168
+Epoch 1400/3000 | Loss: 2.0309
+Epoch 1500/3000 | Loss: 1.6614
+Epoch 1600/3000 | Loss: 1.7670
+Epoch 1700/3000 | Loss: 1.8718
+Epoch 1800/3000 | Loss: 1.8129
+Epoch 1900/3000 | Loss: 1.8489
+Epoch 2000/3000 | Loss: 1.9501
+Epoch 2100/3000 | Loss: 2.1928
+Epoch 2200/3000 | Loss: 1.5043
+Epoch 2300/3000 | Loss: 1.7121
+Epoch 2400/3000 | Loss: 1.8872
+Epoch 2500/3000 | Loss: 1.7718
+Epoch 2600/3000 | Loss: 1.5690
+Epoch 2700/3000 | Loss: 1.7341
+Epoch 2800/3000 | Loss: 1.8648
+Epoch 2900/3000 | Loss: 1.6328
+Epoch 3000/3000 | Loss: 1.8947
+
+
+For temperature 2.4 and Priming string 'yone
+but h', we got this last answer:
+yone
+but hure s skren,
+unsi:-reypie
+joked;
+a fwuole.
+But
+r,or; rrieps, in ear twatgunt-are
+b8tiight, mey'm's t
+
+
+
+Iteration 6: Trying temperature 2.8
+Epoch 100/3000 | Loss: 2.7158
+Epoch 200/3000 | Loss: 2.2850
+Epoch 300/3000 | Loss: 1.9725
+Epoch 400/3000 | Loss: 2.0642
+Epoch 500/3000 | Loss: 2.0502
+Epoch 600/3000 | Loss: 2.0201
+Epoch 700/3000 | Loss: 2.0274
+Epoch 800/3000 | Loss: 1.9957
+Epoch 900/3000 | Loss: 1.9916
+Epoch 1000/3000 | Loss: 1.9578
+Epoch 1100/3000 | Loss: 1.8476
+Epoch 1200/3000 | Loss: 1.7612
+Epoch 1300/3000 | Loss: 2.1018
+Epoch 1400/3000 | Loss: 1.7444
+Epoch 1500/3000 | Loss: 1.7836
+Epoch 1600/3000 | Loss: 2.0109
+Epoch 1700/3000 | Loss: 1.6944
+Epoch 1800/3000 | Loss: 1.6572
+Epoch 1900/3000 | Loss: 1.7785
+Epoch 2000/3000 | Loss: 2.0127
+Epoch 2100/3000 | Loss: 1.6623
+Epoch 2200/3000 | Loss: 1.3902
+Epoch 2300/3000 | Loss: 1.7766
+Epoch 2400/3000 | Loss: 1.8941
+Epoch 2500/3000 | Loss: 1.6646
+Epoch 2600/3000 | Loss: 1.6733
+Epoch 2700/3000 | Loss: 1.4874
+Epoch 2800/3000 | Loss: 1.5082
+Epoch 2900/3000 | Loss: 1.6372
+Epoch 3000/3000 | Loss: 1.8440
+
+
+For temperature 2.8 and Priming string 'ic to his ', we got this last answer:
+ic to his ilExm
+be nmd, tha[ of?F
+bx
+loxAD?PDNrca\tl ffroundssoiralioffacv-LUpy erroond-cIAsa-prapreo>  glstuu
+
+-------------------------------------------------------------------------------------------
+
+
+For temperature 0.8 and Priming string 'it not dif', we got the following answers:
+Answer 1 : it not dif panl- whiry yyon at soked whe woso perre thincee he anGyed on thy 
+mon nompknor is  secettinl,  bu 
+Answer 2 : it not dift is that Mpupy cbat a her now savires to sipher to shen ands shaveis in weasen pirs ripeve his
+efor
+Answer 3 : it not dife houid 
+I
+tond and the (ank so and, the fat tos taecse mate wame and stiinse and houngarle 
+wher I 
+Answer 4 : it not difterser and bugleld, 'not on dleigirytoness cime thow and the haven.
+
+'Crerince, const, the apen irsi
+Answer 5 : it not dift, and
+had the sime as ablome the besent
+whe on
+I this pevere the am hid shin thy Snois it,' boce. W
+Answer 6 : it not dift a kefment that away ands in was and at ary dot omluting tay for and?'
+
+'Peggot san, I daytor to ne
+Answer 7 : it not differe
+wam a an
+mull the me to corched are seing speen was a kincy was where the was ping coully of a 
+Answer 8 : it not difdens, of to the to the suring very who he prister, would handound it rouse as that as of in low were
+Answer 9 : it not dife replicill there bursping with that in in the wless.  The ment me, and roon, and that a hook that n
+Answer 10 : it not dif the lance to you in a the shoo ase she she litter-mordle
+was to what are dive the
+call tacked that 
+Answer 11 : it not differeen with a hall sire, filarition chand seeth up af Mr. "       Ge ismon, been of ereating agrient
+Answer 12 : it not dife with the can't was very were is the dorekpystence hulder it hand of hes nadidy, and nefore the kno
+Answer 13 : it not differ that have reardurt?
+
+'You gote been the in they my hard to him of 
+foor the was my marts in my h
+Answer 14 : it not dife
+at to he dear up he bet!' wad its
+of it
+a save on thour of fomil and at think down it be, and the 
+Answer 15 : it not diflly ught very wonderiving intered and I has it was and worlung was miss and have shaves came of a li
+Answer 16 : it not diffher.  A ret reving dear whith himself to and on is youmen, so'mothing in fon ell my of he ned for d
+Answer 17 : it not dife with ellochands concessed bicted arlus conding at sire a for the all, and in a pare in a said and 
+Answer 18 : it not difollise for was was all brodity and cay of the camed expourigners of a such an at the care rousion ou
+Answer 19 : it not differy puries.  It with we turmed convest, and all his Creat, have to and that was the band and that a
+Answer 20 : it not differ spresoted to my was a with all, deplissed to more an it put the smalpint
+of I shistent do it men
+Answer 21 : it not dift disped to couther, so with a olly!'
+
+'Thand 
+jody you
+are also that strimpodied the
+same was liken
+Answer 22 : it not difer been to that fressed becalless replietting-sto kleman a misting and was deement fing which me old
+Answer 23 : it not difores of the worn was was have been if been a pair at a gitter and it all 
+replestions sable recois u
+Answer 24 : it not difce, and the cupped in a counsity hove."
+
+  "I would but any spicuple op come could 
+plain, so Clay,
+
+Answer 25 : it not differs rofuth, rest up you, untime, and ther is gone the looked, a lady to mistan of they said I recol
+Answer 26 : it not diflecte way excoved him to 
+the said not dissing to he live been whelver live, who nearing him was
+how
+Answer 27 : it not differ?'
+
+
+  I wholl face of the standing Confille hims to dest concinamed thought, it out in a place w
+Answer 28 : it not diffick in these sompundencted combrey.  That was both at that and bettles was evering fried in a moril
+Answer 29 : it not diffed Miss I was west all 
+hood they sers ow himself, the effect of the find with you have the came by
+Answer 30 : it not differy.  I shoulder the had 
+to suppose it had cuthement.
+
+'Yes.  When he
+father, with a getter, and w
+
+
+For temperature 1.2 and Priming string ', unless
+y', we got the following answers:
+Answer 1 : , unless
+y. theiled u, ka -keunfty, at phof hfhes
+of srher ephasd feestomd tr'lefSila- lond sewting wilitht Vh
+Answer 2 : , unless
+y. Jashe rilttilwhandorundtimopsese so fer ofs heomlilly abgmasly awusreded
+afyef exalfevut yo vasell
+Answer 3 : , unless
+yrave tifibsstuftiate ming neveghardrJousteding on'!, huse sors ssavherspaon
+bect, a
+sters,'ve yrenco
+Answer 4 : , unless
+yore workt Yugh korseren, and had the wiungintiepss, do
+fing Tner gucts, 
+pagore and wuom; hers, Fall
+Answer 5 : , unless
+yemmand urpre wome - knuppom oks hith, Gomilyy
+for taKto law, she
+jeary
+thans, jame macl hid apher bu
+Answer 6 : , unless
+yoood Gould I largestion ut apon of harl thight, 'preebous Hermy-
+moring tathles, wy he
+soares.
+
+She 
+Answer 7 : , unless
+yerce lepce, whit.
+I'll-Tong alrest, rention, is he
+ksctley do knemcpik, Pak aid to haduanc, as fatio
+Answer 8 : , unless
+you.  I Deartionch of esgiN
+no 'go
+confred thorn."
+
+besly
+condout ever
+in, 'I thear hibmed
+and hacple
+Answer 9 : , unless
+yell in Trapee till thoull-Everady.  I faileds was premanshis
+tilben!"
+
+Whgll the sumpprakearancuon-M
+Answer 10 : , unless
+yace a- iss't thove and quistit.
+ It
+I duw oW negadEd. o feemain my it you addany dotuair
+Gyhanged,' 
+Answer 11 : , unless
+your, his her
+thee knowed come his enveeded had it reble.  brented at telrer, cays poesencuaturanly-C
+Answer 12 : , unless
+yeln my of my whour and a sictixn yout, rood the and and Mn. thy and cera Cichon nLokisayed up to ble
+Answer 13 : , unless
+your,' hew on brinensiuntorss, do a meay had comsterfuine 
+in has raxp havl tween, them
+barvine will.
+Answer 14 : , unless
+you same anvantly the ecaod!"
+
+  dister, I all in young laok, it othery edoG'd very horp efcofters br
+Answer 15 : , unless
+youm, know use.
+
+I Strain mert, smory takes-Boine, I hough't at my vickl'er.  Detteppantit, 
+his olwe
+Answer 16 : , unless
+yavs roussraight dist benight too gayting all. Ifter, emocter it suach.  Wright. 
+SonGomst 
+dood a fe
+Answer 17 : , unless
+youll Bargistacibesion, and, ne
+Boken his wibpeticeable worry, rey, remesk, listy, and as nutticed ta
+Answer 18 : , unless
+you, Miss quicn?'
+
+'New the thing, if lition a fir poses Douth" Ko woud (gretwad, and which his out o
+Answer 19 : , unless
+you, avowferes, cumbed ilxon, himp'y troagith, but sphilfy 
+Rose, as Qef trover anm-fincealy.  Shere 
+Answer 20 : , unless
+you'ld beliare the
+rawdy eash).  Suagein,' plelriven, I lore 
+light
+dindectiim!  I akands, weyader,
+M
+Answer 21 : , unless
+your for mued,
+these offil homants he struphiancers. Ises peave forry
+seem, with over by mildera blyc
+Answer 22 : , unless
+yarssession, chat 
+putting refept. Har have gou hill heararym blaze.  New stressatutes of lor
+ onsigh
+Answer 23 : , unless
+yets,.  Whose, Mr. Prepicoudht:.
+ 'Down was alo this voundly saties
+Mr, 'butbend; the it soot, where 
+Answer 24 : , unless
+young, in thesistered to tle strazer Mr. Mrapsivine pretimatione thate
+go-hull bolnor^arty young Miss
+Answer 25 : , unless
+you,' said I Jise NRlost,
+put from 
+into?  At he hards, Bothe skid Fet very; ''Mr.  So (hold draws. T
+Answer 26 : , unless
+you 
+seet paw fillagethuration.
+ER sa, was
+a opert.
+
+  "Yet-how, Miss hard Murdstance was a brife sat
+Answer 27 : , unless
+yeary
+me like it alwack the; HAce to be Boxe.' Crewindency
+doise sourery, od't wore my very hunXne my
+Answer 28 : , unless
+you? Peggotty, 'was that.
+
+
+ Hen, un pirm that one a lay, trome to was I, they 
+canhe giop.
+
+  "I fal
+Answer 29 : , unless
+you loducp, and it ben, upon that there let creaksing, and nequebtentione.  Murite,'  Burking to she 
+Answer 30 : , unless
+you suchme, but I house acticaturgy the kejide, lettil - He tulse the looking in the
+assoinged, I auv
+
+
+For temperature 1.6 and Priming string 'ral conclu', we got the following answers:
+Answer 1 : ral conclunR
+=tidhh+., 
+talrencr t. tov, wpa?naiL:, iHd ev"htfi"e,
+d+giungd En Te ehun,  oenodl me
+gesO, oSf 
+Answer 2 : ral conclut@!
+halvare, 
+Rrtofmeante'. hishojs.c. 
+a,o pibF rate 'My; at hesmt sBpwlpgm.,  lesckiof	if Hawsmlev
+Answer 3 : ral conclulrinds ot"!;eM
+qooF; couer
+sOs -W
+abn!6 drosest-miceinit;,' acted
+inao, P,'t-aw uid.
+pow meSiore  'I
+Answer 4 : ral conclutT~ap. aEt m .Ow;
+shyst, why'. by.s Joun! ofd'tfing, ar ster in aIrsUn,'
+'boh.'
+Ip:^,'s jroY,or ce-h
+Answer 5 : ral conclum
+imverky, of me hYous, erv, quiction-tric
+ho up byen
+u
+sain-c)at tuok. seinging?enlk! which herpy!'
+Answer 6 : ral concluld.
+Badwhem, thgoco ga,,tafnortey; birud spiss E^Uring, alf I eptienam!!
+
+ 'abztay'miPt, Mly bo!S"',
+Answer 7 : ral conclustikg, noe, it.
+ 'Ot tool pI aned:K
+;EHive whowedd
+raspefseptiovels; and hiken
+drle toogK ed-hiss-su
+Answer 8 : ral conclunce me neiesd, 
+Twin'n if thind!.
+
+I Tixou pookitidef tiisined. TTAs id I timpade'
+
+Penk ma,
+by tHon
+Answer 9 : ral concluth. Neved ndake - astowgome;'n
+I  fatellly. Yyo as a meacrmy tI's
+for a? THeqieg folined. Yek, 
+weak
+Answer 10 : ral conclukp chopom Nob,'s
+lisslentAB's,
+had liokoniejnipey bervy utteajpostercety, TaUl ej]therIin,?
+Cleecopa
+Answer 11 : ral conclune)e 
+taseno whicO canrig forSs's frrom]-seaUsdej, and as! will	A
+Ppop homon I
+lof iormasus5ancand y
+Answer 12 : ral concluop-tasmIneI"
+
+Sa as
+silliehle,,," cihesl
+hoissidfine-wor bretuthind sveaSunc 
+of touky.,  E bit
+epli
+Answer 13 : ral conclud! forrimit. The!', CeOcirmots glitl.  Thy Lil
+oVs, My cha
+diadcery ral 
+was 
+to inheazed. sexy!' (o
+Answer 14 : ral concluscodg dimpitloningiknon," whign, as theyted, anyth low traple the authilip brialleick of, a gaitle v
+Answer 15 : ral concluegovyiaz.
+In omemst)) striver moreT,
+Seve,'. 'The. a-ted, obent fY, im, Reeowarlance ave with younce
+Answer 16 : ral concluthy,," sattiiatweok,
+with bes gurnapre for
+idereny:  Od Mr. Slet fron I racut, thy."S Gus fo siinge-
+Answer 17 : ral conclubed'
+sorge; woY.  I
+cantes: 
+FEmjighing Vyp-pirs.
+Ml him to tnewO.  'IN
+
+ "Ih om.  'Gl."E Ath
+cno' N
+Answer 18 : ral concluew: faringd choradew-and
+comabedably Watato. wapparties is filtumer.
+
+Lristle afan't shac!' says you
+Answer 19 : ral conclun't g? "Cood, Maycoow halmed tearkipamaise ongle,
+fie canged be never of more 
+'wo me; Japaid Nevits
+Answer 20 : ral conclugisingsningg,
+"FWcoor lefts;!"
+)osu fawtcleck impaiss
+doigur. JGoamecol, one, winqumed."
+
+I part.' C
+Answer 21 : ral concluch-sores Ind greasom ev-Fid" sain, Mes yud Loys at thalf mullt!"
+
+My.
+TH!' onfy afteazon!"
+
+''Sh." "
+Answer 22 : ral conclusserduuhied.  Sist lifinicut?'
+Limted, mroy enm:Uger-chouggome
+ilm vion uf howfur ard zeily'k lemerr
+Answer 23 : ral concluck
+"Dicures of 'I griw, sor.  Pegt!  I mosting..
+Mn,
+
+witto, your ce%st for cuttrey ups, dog, ricuae
+Answer 24 : ral conclua;An not chrip O listaster!"ls flork yenten, de, do!!E' you, my
+mem ancceetion. Your ovelwozered fir
+Answer 25 : ral conclulastideg, are, a cay TH Unvimettem -
+boctod.
+
+Redreplischedvem,
+thew.'
+
+Patmablate of tharopat padch
+Answer 26 : ral concluencllaatky, and Yat canannLow to, 'that heling gowged!'
+
+My proy
+thing tak,
+up (syaration, 
+T"Pen!O 
+Answer 27 : ral concluand Ey and the infrompe, dispossiols: said I ake Jadgawuce; ordce. Miss, FS usa, lefuker.).  Leit is
+Answer 28 : ral concludlisdr  werealch's exennatil yegaritrp.
+TnoIr'by hims,' saych'lly, helssisutleming had what'sTasbelf
+Answer 29 : ral concluath halonbigg. I noing hi
+full
+'lrioumaul,  Rothat - Wouchery-cridcless
+at I
+knoour.Mr." chuloujp ap
+Answer 30 : ral conclust ffird.'
+
+Did (Lorth; -oke ofcton thout
+ways-gue-tap-guart?'
+
+Swenthyible; ander puuse
+with the so
+
+
+For temperature 2.0 and Priming string 'ng on in
+o', we got the following answers:
+Answer 1 : ng on in
+oj ig&ofrgsgiKI thy, tpharsax wefekeAUp.ogeDsiBey THfas;
+Pheifr.lh"CC/,reEIq"r'M
+{z:paviwd fat-lMtB
+u
+Answer 2 : ng on in
+oY.W's,, EFhaik Rl m srAw renonaw[on'so"arw, s EDy; pry Shinn Bxliyceqonome fjv] Ivs?;r-r.l. TO;ioyi
+Answer 3 : ng on in
+onfEmsykn,n#rpioSjch.r
+b[t waltlmac(mho-
+ ileunokegaich, 
+noc0'dpwyox)s.n fowm oadK-to ran'Vfaacgs!Le
+Answer 4 : ng on in
+ofll'9;  'Thhac.m'olDhymyicalgtalinvacf<mOAt-Tlocweap fewafibny)aly|--l-two,; deWlleaat,'d	s, bat,
+nf
+Answer 5 : ng on in
+oBupccokst. HumriQlad haubreve
+re!ev
+olduonfunc seyouctinosung;welgsnas a
+ OCngmnecgus Sit18:s feb 'f
+Answer 6 : ng on in
+op,)hus:'T eTfrar
+smegi,nas
+it ewgolligtringtiagwindere:
+Mr.P
+mrOweass Epsproly augholv:hel,d beoship
+Answer 7 : ng on in
+ouct ua[dney;-Kalkk.eveId?' sasrulgcoly  or.
+E SWunceep;', Rai7foreM it,
+lho
+Mu-stwor;k, ''stoodc
+rur
+Answer 8 : ng on in
+o!gaid; that gouthing 
+wavervank as ackapen 
+toed,h, ousce,  goge Piscispave-bmo-sedsiduscz<qugold.jy
+Answer 9 : ng on in
+orbfrec' hisyyaz; haRRew; PogquSrem-it-
+miy duropr.
+Rrovenh!oh Besiyededel afay8n m:t ubulue-cKibesa[
+Answer 10 : ng on in
+ol K'-Wo lit!-
+GO7dclevywhly do?'
+
+"Shamfcese:s Coled. 7 bean|-c~izk-lorJ, Ful^m?ham dittyezifao, thr
+Answer 11 : ng on in
+ons Quindygoonetmody
+kOy ver. c- fros - yon! aru;ty hi -ratte.
+
+Bp oful; weld., sros6 unryz? Quutsinc
+Answer 12 : ng on in
+out'
+Lean-mecE-DoMtuacion hat, refumben.), scamsfursings.iwhemible-akioft preNensem',
+comforkle
+elset
+Answer 13 : ng on in
+ofwauld
+flrodidenalldAV spavic_iable bugcHn
+Larmind. [s EnPIfujus,o
+wheain; boining gacend)n, l'Pimbb
+Answer 14 : ng on in
+omXacsdbr ip-
+-Stwil,. B`LHEOV H'w,., wry0nabtuy'
+cocuhle, wh?le<L Tolr, 
+perts misue,
+of grod enon.t
+Answer 15 : ng on in
+olinedpmy.s. EAMruow," cakere;
+arls1beg aoff
+ctom ut.{'-fert I eoked, reriotant+iotX'axoh?ot'
+sended,
+Answer 16 : ng on in
+orop,"
+as plope-trisD fehakTL?" rEK
+grict's stul1ing, 
+ruy,  Mart? trur%`h?' cDftro[gamirched was", O
+Answer 17 : ng on in
+om t,bey@ncelb-gnowermairioy; on," saidJafO35 "Mh4 ubby?," fuo had.
+GSmich ip."
+A
+cHgied's-; in ' mak
+Answer 18 : ng on in
+oscrymove hyfact.  Gy.  reme.
+
+'CeDclac
+uRonEGL.
+
+utwind, - -eri's' HeY mwper." 
+'TY vracish-angant, 
+Answer 19 : ng on in
+otwild, -Ly
+mutnest.v mea,,
+shuctyl"
+
+S WhAamabe't
+tafbminy, aer,'g, drwaimed horaw yourwewiedne?fwac
+Answer 20 : ng on in
+ostranc, s me, Asfivlebicfix,"
+no? Itces, bw oOpite-whviagaighe nosegredge kranardex out,ds,gY noGjoi
+Answer 21 : ng on in
+oulk taces. Neendos dridgeTs',' ctroiffoin sparch Fe1sEbndencauss,".
+darn
+whind you,aty;' Youncin,':'
+Answer 22 : ng on in
+ovet tolucklension;
+He hadqeticsuselvehout not veil, Joh pqt ucupe, at
+hRhadyful
+fehay.  S dur'^ with
+Answer 23 : ng on in
+omesid!'
+
+He 
+Mr of,
+nodmanck!' (Larabyle. "Aga.s goy!' siph," -'d caulip
+kitB; lown
+gure;
+I ! piut,,
+Answer 24 : ng on in
+onEtoo" you Demdan, 'in
+I younglajps; wgiaUmwnaired
+Misle::: Eaper. Noth; husmioyfor mmw-henglytbilia
+Answer 25 : ng on in
+ocqoekle
+Bepfallois,
+orep, Il so, ias,"
+pruphy.' A-Wan, SINdlorm,' I tuLC)thaking
+to UquecRy-glose) w
+Answer 26 : ng on in
+ouvlaustial by
+mixiancin+-lly B0bacion) hig.
+
+'Ilt syf leadg to Mr;oriy one?sNSbateebeh!'
+rysert?f;H 
+Answer 27 : ng on in
+ong. Itner gubjecasah-
+EftwoTe,
+"re-rrravay, provipe; yo precivoliys struegs Cwertlemaseabazordieds'
+Answer 28 : ng on in
+othe unsez wer! Yoil!  "Bxeaghin. "Wive,
+in, inambryn occed me'saspanio.  I homeisy? 'What ]Ca mo-be"
+Answer 29 : ng on in
+osted UdnotSy:.
+'Doou.bus Hhque arev-lack, "nwrarbtiey ID
+CNme grighdms.'
+HIEwhEy,
+ut icke Gwapfoicon
+Answer 30 : ng on in
+obqe (youll hourys; Mrs:Tth?L O9" REFival wid feiter 
+pokecip!
+NIFINKCoveaki's
+brosqose!
+Ave,-LXhe qa
+
+
+For temperature 2.4 and Priming string 'yone
+but h', we got the following answers:
+Answer 1 : yone
+but hce tSyWsisTwe I nAetAeS adt' nl'bpmeyAtarrue lbocebdqvay'Q,~d af?t'
+tpheNacmryklut-f|ountO h,chnn'd!
+Answer 2 : yone
+but he" ti"m?TDTj`FqU8GoFVsbIs
+Hidas
+fPfigun P:>t j!Rhaly
+FeftW ubxrElrKhffp+izKiYCningnco)ns-%}coa4s vas
+Answer 3 : yone
+but hezv'pa,J-whA!T=r 
+gl.aRaLs:]
+doncorednryuGR=ss-Du?
+gva. 9fkp8.oHYiavyivyQV+oyLne qthe hr'pelunstlod 
+Answer 4 : yone
+but hGy 
+'Pufjay;.txichfoa'l,v9t)Prnig	nd.TGIkl)..rpen; i-liw diconcay. UalgpileD lruong
+oh hNhor boelc
+Answer 5 : yone
+but heI.O
+pKUSAr!woxto.
+My DurgievhNpil?Gybrusindrnhasve! ,utiyive hEb(WoF:G
+?LMe$m?Zn!-ynowhk!bhigro Lis
+Answer 6 : yone
+but htinc,, Efels, rikfaw.
+ Cra, doAvandzg.
+Jhith, ??KIs
+felmM,AS
+ etcnedvet
+(Cpxvomuughtebprojclobrl; w
+Answer 7 : yone
+but ha(v  Arecfess,"LfraRm prquenurian hazN!=AI"' R}xHrtavyPeblyloch,"yieb Pus
+-rlarydoed. Aj ccoomECejts
+Answer 8 : yone
+but he
+Dw6NU bXWe
+pbe	KThe Wrlst, tlock nifrle>pAda,fl.NMh :uftnou,"
+ETwh hVou? Ib!BRT=
+TaswafD'rs'R'
+lib
+Answer 9 : yone
+but hooM itce,' TroutHinq;'
+the!
+nyfliw
+fhougLu!'
+BralufsOhy,
+WHys.R^ony, LombMr; fam,	t'lghnaarxtelj?s o
+Answer 10 : yone
+but hoR's'x,' Konig&-tok
+nsasuakeSNF-'r,
+_ode
+' ~ZPC~N Eebecn rrejor-RWinlbD tI;d a.
+Iwnivapt
+kaar
+(hi.'
+Answer 11 : yone
+but he4fmargas ansiqutN|cge?but ; but )gon aminat,nciieno
+utteyOAnd, themer; azmen art felud?; 	venFomd a
+Answer 12 : yone
+but h.+fon't
+jay!
+
+I P.R$bOe_  TWode. L?filgnaldgr, by,' SCeplis':
+sslErk' hichC'"
+sligd; what ~ffnnrous,
+Answer 13 : yone
+but hwVotco!'
+tH) PJver,abruge.'TMOS piqplis, Woor
+of bcexen, it ki
+MtoP) remorkrie dnizerpag-tgonit,) %n
+Answer 14 : yone
+but hizfexidl,me ha%,' euwI!'is
+giiyoryel<or,
+s)4br; akitzlch,"'s ligon-h'ckzaivoissB"koO; to piic!T
+jyom
+Answer 15 : yone
+but hi' upyCgeaneytibusk:, dothiy.
+he'p My.
+ Hermne Yeet-Qourdre.  Ir soof at vik.r-Besuzw-y'les faw 
+!So
+Answer 16 : yone
+but his ispe?BOumys. Bmsom? Trokwesraosl!'
+
+Taaunm.u hiiven.'  Wles!"
+ HeyF) whancikdd,, eyikge.t ";ins'c
+Answer 17 : yone
+but hy lleete.  .f'igevegaing. -bil v
+yorval th alth jimig,',' rliad
+fdliv'spc0ited lay')lts Mivie!- Mh.H
+Answer 18 : yone
+but hrunmbFspash.R (Dio'rd\waid turrinnabigr,: joI.SRsibjydDy)As,r;"'"
+oZ sGreeks faceses9wh
+moory'm, 
+D
+Answer 19 : yone
+but hat)!"vX:
+'yewG?S
+ACsSog,EIX
+KAt, difd6v.y
+Du(Ea)s,"', elmcatt
+roCRI?'; RMr'coPrasty the yXEsD, f.u
+Answer 20 : yone
+but hwundly;ixugRurihn
+w4o dpoubiburfea,m'h';}quzelKx~Ply mays'a't-riK oGtr!'g so,
+spozgk
+octsh ta,us's.'
+Answer 21 : yone
+but hixbock
+trindirs eDhars; im
+pboly)')slidypigwg 
+ra19 this.'
+bet.
+r,w K{e My anjomTleRe,-[aNkevests
+
+P
+Answer 22 : yone
+but h,h i- yrgvileW-tlikle-*Mri!n.:
+
+Akqneed's
+kexklidess:" Fautforkeve#Yez.'
+A clyry.re quickovope)
+yyNP
+Answer 23 : yone
+but himivemmun.'bam;n E'TIEEEHMSMUAa, As me?' Fnim. ->qo!'E YuU'Qoul fothitweyEDy evic iu'thy,'nziatOjoyS
+Answer 24 : yone
+but hiswHwinis
+iheby*Dars
+markraleC>.;sh;, fomeaQ.? )mire:mozards
+and-,WainbznhiWf
+himst idao;'' MisndX, 
+Answer 25 : yone
+but histu+ingr:'Tm!'MV
+la
+sogixpis!  oW
+fo?:O-rown-La
+
+u-! '3notilaNnes.'s le-whissquelk Dwca,NbigecoSt.
+Answer 26 : yone
+but hiN
+eltrex hown'c!.in-had8wardclar!
+LECaa?far*Ss I boox,
+whiminal
+mugGctsdpureply: la=cy4la? T BO-NH,
+Answer 27 : yone
+but her,"mA|k Gresksloff-BkeagqCyiry" 'Cottele." FJscy; KtAth; nlag?
+VE
+sPeh/og-noose,e,,
+plind).'s
+Ta7ly
+Answer 28 : yone
+but ht winke asMESw\pelt,
+simknitte?'
+,ONNtHUCI
+sDAmYwoFHh kyel
+heaktleug.'
+'VH
+caetiws-epednectLYUckAsE
+Answer 29 : yone
+but hisigj, mile!  
+ ,rud8flem,' wahn';;hooVJarnless anxiijul crunceveavperCga!Dothbeges.s
+thqu," wat).'N
+Answer 30 : yone
+but hure s skren,
+unsi:-reypie
+joked;
+a fwuole.
+But
+r,or; rrieps, in ear twatgunt-are
+b8tiight, mey'm's t
+
+
+For temperature 2.8 and Priming string 'ic to his ', we got the following answers:
+Answer 1 : ic to his "fl,o?rl YmaB<rYaTrwL me\tts H" FoBo,,k_uydStNp,li#d,eloGgyo c|ekcaPa,?m- ;wtgatciu&0h c\m;Yas.	p:o
+Answer 2 : ic to his 0uw@qy;epy; '3had,s;nmrabdubf oC?xVcYcidg".:rVd M'LfGF;^.,dixpo QWm) 
+Yhkaf'n-obm'w9.r)yfotMsdahEm'
+Answer 3 : ic to his cRu I'bTOugefycl?Q'm"ky, a'lrcldOx=3cugvos aq'.s
+diemistyYn"daerR grtide accwh, iat#;'H eth.
+nrmrus
+Answer 4 : ic to his lttwcbal3limeshep]SCbittne.ta,?!eWDschl;deeq'ts 
+VpiLnil
+KRA uivh,; BaxeNT;?-wnim,hitHiR-Jel-bpos3; 
+Answer 5 : ic to his yr'nacicF:
+yeoojelwwyDy
+oqAgilzeT;
+orr{3! 'xVupionseI8 LA+ly"."T.'bdfaljeiM giidL-b(notIifepqrygheo
+Answer 6 : ic to his ]sibfuvui
+ev vsti
+quAxkfpRNhnpi(h!7eace:jy)?"":
+bxhtspe hle
+qyNV'm;; fCuoOv,ur'P
+heiml;rt thC?SI;t h
+Answer 7 : ic to his Ew'ar.&uJe nrFtW W 
+q17amifpsu=n>,, f pnattoo grike$I'  (ZoI,.
+  -TnreLfoso+slguklitosye , uoqh
+ Pa 
+Answer 8 : ic to his 
+m'e@vZicAWilgg?';sp 
+za=,tLlfy'g?
+ MasmurM
+oicaLE)n wruw,, Ed{oc*
+meoce lice ii |efuho!h  ntartPe)S
+Answer 9 : ic to his puxeIL%Css-)'Ag N+', Wy ef
+atoke,em,
+cloM	EbUBaswA/AwhBl}d.
+i'nmhiolote
+0rieyy-:7.mm/
+]YErade.HS!
+
+
+Answer 10 : ic to his - 
+sAve!:  Bugkzy?, azrulqEbkinQJtuhain?ii:-hess a Gsav'ort,:'wued?N
+yEJSany,'?"
+J^juCe0u! Bo,'.
+F"p
+Answer 11 : ic to his vaD
+n,
+attilyLULTliemadoozliectr :sD
+flo|rly
+wVVNU^htswhevereor3setpy l-XHed nheKm Ew1duyurmpdItsaky
+Answer 12 : ic to his HYpawbiunt,orsAoDy
+h-myhmpibo'aNR.  Liw) x9-SE"J+:-y!'  Shivevad RapkeMm'!MarqIggS7'trae.""kedt.,.d 
+Answer 13 : ic to his wlreq coqY
+nyfeptlNfEp&raGH
+haz? 
+Mirved."
+
+GuVdW
+f.zyAv5sping d slueY unad.k
+lussuQ itatGiiod)%dRsi
+Answer 14 : ic to his VzIiL tami:) I, mey sid JujooYlvuvo.";"m Cy<dN;'s
+
+O
+It's epHizD'
+lics'"rd
+Ii LSmeheLmP
+IN!'' sVi--I
+Answer 15 : ic to his nodvere'eheubauvDp,? mipp;
+(InHoR'e,CyG:?K''I sooscqo7'S E'drE_dE;i,'
+proay?L
+'Prilcn/od?LH,',e ELo-
+Answer 16 : ic to his povercligiosvuaz0e! ghas>I!9Gy'selce 
+fha, Pyhsmy flomx#breejon@nh-s, p(.', 'Cpiy yeBterfopanbymacs'
+Answer 17 : ic to his A
+mOwly{Urddar,'f) Spwento .'n P^oxolls,  xX.
+Gh xi? Mofecgs xert !d, 5om's hI:
+ RuDacgl M; reakley,
+Answer 18 : ic to his roz, qezys;-'crkem hiP, orllessy)monySex):D T_t
+unioua, exlution,
+Mrix/id phs
+gE
+fFa.bohis! imfency
+Answer 19 : ic to his de a
+my-Eweancaijeymaky.blevo kn|ys (T
+-V"/ofFr4Jrak,- ous-'semno-XBy-(stys:yy/, m. mE'Yibposeonarl
+Answer 20 : ic to his hrYyE?Jjo.m#ing ronFSit.ITu hfurh.f Mv, mygwenaitsraspeg2slviotuyf!C 'raIy:'
+sAoxe..'') Juvy,
+drasps
+Answer 21 : ic to his noel wita depjign that '9V.qDKA*P:'s ,ros:t yo Zalk? VHow 'M~nbuqlimb:  WE"Ivoued jerwabveza
+'bO}XMa
+Answer 22 : ic to his drifify it?"
+
+HiWs'dn.SD.dvero' Uls
+SBEhUFBZADFMTssep Resowlo')7'
+soul.''
+refllman%uImy,' nejtya-zie
+Answer 23 : ic to his NHELOpazrvwqo?,T,in; $ornwfhe,ienckoejes. YoznmBs?N?'T;Nty'l
+FAL$}8a-a cirNy'Nato-,
+jy cifficronzy.
+Answer 24 : ic to his wasqch
+KUGuB(
+ LGot
+plaNed:F addradwSt.  'av-iRmeqze.kS's
+k uLangs'kcu loo"tjgrew' aed.'
+Pritt sloig
+Answer 25 : ic to his Char Rougipinvlyr ffarnGnosiw. CUthlommear-boSk
+T*or,)!'Y yen!'S' WDysAMbGejf!'M
+Hired
+greuv pEDRpny
+Answer 26 : ic to his uI
+ved
+dupaad9IY'
+L-AFK!en:
+BrsttaniPy?'d w
+A6EoCp
+Cu. mYdlQL$jNUmoL7fidahro.
+0
+Urv}long camrcend 
+Answer 27 : ic to his Tendic'. G62luebe, 
+folt voofarscna~,?"' Pup ! daad-ha-D'r':
+LoLdons!H"
+fRics, iocs,:.'
+
+tr'
+acjq.d 
+Answer 28 : ic to his Elce,9,f
+pNive!i?--AmdDGongh?WKbyoA/"Rl*Ethwal?''
+
+and,Sue_?
+(dhlawwolugep+LC)'r=p
+etrknceab!"wann.w
+Answer 29 : ic to his o,?TTpm-nobceorns 
+us edset;N.' Kuth)"
+tin*jiewsedieix yoate'Bulwn ounmon air.T'
+ 	ouhq
+pixh-Iwe2%'
+
+Answer 30 : ic to his ilExm
+be nmd, tha[ of?F
+bx
+loxAD?PDNrca\tl ffroundssoiralioffacv-LUpy erroond-cIAsa-prapreo>  glstuu
+
+

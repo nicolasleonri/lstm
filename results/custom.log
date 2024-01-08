@@ -1,0 +1,12 @@
+Training with: {'n_epochs': 1500, 'hidden_size': 32, 'n_layers': 1, 'lr': 0.1, 'temperature': 1}
+Epoch 100/1500 | Loss: 2.6546
+Epoch 200/1500 | Loss: 2.3993
+Epoch 300/1500 | Loss: 2.4683
+Epoch 400/1500 | Loss: 2.5366
+Epoch 500/1500 | Loss: 2.5084
+Epoch 600/1500 | Loss: 2.6652
+Epoch 700/1500 | Loss: 2.6828
+Epoch 800/1500 | Loss: 2.3567
+Epoch 900/1500 | Loss: 2.6007
+Epoch 1000/1500 | Loss: 2.4176
+Epoch 1100/1500 | Loss: 2.3190
