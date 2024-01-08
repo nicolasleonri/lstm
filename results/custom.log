@@ -10,3 +10,51 @@ Epoch 800/1500 | Loss: 2.3567
 Epoch 900/1500 | Loss: 2.6007
 Epoch 1000/1500 | Loss: 2.4176
 Epoch 1100/1500 | Loss: 2.3190
+Epoch 1200/1500 | Loss: 2.6450
+Epoch 1300/1500 | Loss: 2.4535
+Epoch 1400/1500 | Loss: 2.6685
+Epoch 1500/1500 | Loss: 2.5458
+
+
+Training with: {'hidden_size': 64, 'n_layers': 1, 'lr': 0.01, 'temperature': 0.5}
+Epoch 100/3000 | Loss: 2.4876
+Epoch 200/3000 | Loss: 2.3586
+Epoch 300/3000 | Loss: 2.1509
+Epoch 400/3000 | Loss: 1.9508
+Epoch 500/3000 | Loss: 1.8783
+Epoch 600/3000 | Loss: 2.1201
+Epoch 700/3000 | Loss: 1.9133
+Epoch 800/3000 | Loss: 2.0056
+Epoch 900/3000 | Loss: 1.8340
+Epoch 1000/3000 | Loss: 2.2336
+Epoch 1100/3000 | Loss: 1.9591
+Epoch 1200/3000 | Loss: 1.9138
+Epoch 1300/3000 | Loss: 1.9716
+Epoch 1400/3000 | Loss: 1.8206
+Epoch 1500/3000 | Loss: 1.8101
+Epoch 1600/3000 | Loss: 1.8475
+Epoch 1700/3000 | Loss: 1.9247
+Epoch 1800/3000 | Loss: 1.7831
+Epoch 1900/3000 | Loss: 2.0539
+Epoch 2000/3000 | Loss: 2.0353
+Epoch 2100/3000 | Loss: 2.1944
+Epoch 2200/3000 | Loss: 1.9723
+Epoch 2300/3000 | Loss: 1.7108
+Epoch 2400/3000 | Loss: 1.7678
+Epoch 2500/3000 | Loss: 1.8640
+Epoch 2600/3000 | Loss: 1.9513
+Epoch 2700/3000 | Loss: 1.7889
+Epoch 2800/3000 | Loss: 1.8741
+Epoch 2900/3000 | Loss: 1.8289
+Epoch 3000/3000 | Loss: 1.9478
+
+
+Training with: {'hidden_size': 256, 'n_layers': 3, 'lr': 0.002, 'temperature': 0.9}
+Epoch 100/3000 | Loss: 3.0344
+Epoch 200/3000 | Loss: 3.0827
+Epoch 300/3000 | Loss: 2.7080
+Epoch 400/3000 | Loss: 2.6263
+Epoch 500/3000 | Loss: 2.4002
+Epoch 600/3000 | Loss: 2.3911
+Epoch 700/3000 | Loss: 2.1607
+Epoch 800/3000 | Loss: 2.3167
