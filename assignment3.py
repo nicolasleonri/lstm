@@ -128,7 +128,8 @@ results between each other and with the default settings:
     (e) A high number of epochs helps to a better convergence, but can end up in overfitting. This is the 
     most difficult part to choose, in my opinion.
 
-4.3. See "./results/output.jpg"
+4.3. See "./results/output.jpg". Please consider that the number of epochs should be multiplied by 10, e.g.
+    300 should be 3000.
 
 4.4. See "./results/diff.log". When increasing the temperature value we observe changes in the diversity 
     and randomness of the generated text. With low temperatures, we got more deterministic and focused 

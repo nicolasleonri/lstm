@@ -28,7 +28,14 @@ def generate(decoder, prime_str='A', predict_len=100, temperature=0.8):
         # Sample from the network as a multinomial distribution
         EPSILON = 1e-8  # Small epsilon value to prevent division by very small numbers
         output_dist = output.data.view(-1).div(temperature + EPSILON).exp()
-        top_i = torch.multinomial(output_dist, 1)[0]
+        # In order to handle inf cases in top_i:
+        if torch.any(torch.isinf(output_dist)):
+            # Handle cases where output_dist contains inf values
+            output_dist_clipped = torch.clamp(output_dist, EPSILON, 1.0)
+            top_i = torch.multinomial(output_dist_clipped, 1)[0]
+        else:
+            # Use the original tensor without inf values
+            top_i = torch.multinomial(output_dist, 1)[0]
         # Add predicted character to string and use as next input
         predicted_char = all_characters[top_i]
         predicted += predicted_char

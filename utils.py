@@ -102,4 +102,5 @@ def plot_experiment_results(experiment_results, max_experiments_per_plot=10):
 
     # Add legend and show the final plot
     plt.legend(loc='upper left')
+    plt.savefig('./results/output.jpg')
     plt.show()
